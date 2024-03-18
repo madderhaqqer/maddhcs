@@ -36,7 +36,7 @@ git init
 
 
 install openssh
-ssh-keygen -t ed25519 -C "cyber@tuts.com"
+ssh-keygen -t ed25519 -C "youremail@address.com"
 [Enter]
 Enter a Password
 ssh-agent
