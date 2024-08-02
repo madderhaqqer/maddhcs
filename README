@@ -21,6 +21,13 @@ I wrote this README to follow along with the manual...
 
 
 Edit: This edit is testing the git diff command
+Edit: Friday August 2, 2024 Adding a quick reference at line 27
+
+
+QUICK CHEAT SHEET
+git add README.md
+git commit
+git push -u origin main
 
 
 # BTW I use Arch ;)
